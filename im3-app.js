@@ -5,7 +5,7 @@ if (window.Chart) {
   Chart.defaults.plugins.legend.labels.usePointStyle = true;
 }
 
-const IM3_API_URL = "https://script.google.com/macros/s/AKfycbwkzwy5XDyURJW3MgkC3J3u5IbqeY707K7o1F6Plsxwqk5XfmzItmoitzhkfaaZ5HJD/exec";
+const IM3_API_URL = "https://script.google.com/macros/s/AKfycbyYevHmW0lVvynpjCGyV2OUDebN-Ve6iGPL8F1Xk8MIjyXNC0QJBS70Ok4nlKELib13/exec";
 
 const ICONS8 = {
   projects: "https://img.icons8.com/fluency-systems-regular/48/project.png",
